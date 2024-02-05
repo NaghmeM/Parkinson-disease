@@ -1,6 +1,6 @@
 # Parkinson-Disease-Detection
 
-![Parkinson's Disease Detection](https://example.com/parkinson-detection.png)
+![Parkinson's Disease Detection](https://github.com/NaghmeM/Parkinson-disease/blob/main/203938_web.jpg)
 
 ## About
 This repository contains a machine learning model using KNN  to detect Parkinson's disease based on voice signals. The project is built using TensorFlow JS and utilizes signal processing techniques.
